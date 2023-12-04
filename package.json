@@ -9,5 +9,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Grace Mora",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react-google-charts": "^4.0.1"
+  }
 }
